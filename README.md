@@ -1,8 +1,9 @@
 # Election_Analysis
 # PyPoll with Python
-
+## Skill Development
+Read and extract CVS files; differentiation of python data types - integers, floating-point decimal numbers, strings; perform mathematical operations using data types; declare variables using different data types; create and use data structures like lists, tuples, and dictionaries; create and use decision and repetition statements; create and use Boolean and logical operators; write data to an output file and print the file; create scripts that read, write, and store data from files or in arrays; use decision statements, logical operations for complex comparisons, and repetition statements to run code more than once; produce screen outputs; code refactoring
 ## Overview of Election Audit
-Assiating a Board of Elections employee with completing an election audit of a recent local congressional election. Purpose of audit was to determine winning candidate and largest voter turnouts based on county.
+Assiating a Board of Elections employee with completing an election audit of a recent local congressional election. Purpose of audit was to determine winning candidate and largest voter turnouts based on county. Deliverable 1: The election results printed to the Command Line, Deliverable 2: The election results saved to a text file, Deliverable 3: A written analysis of the election audit (README)
 
 1. Calculate the total number of votes cast.
 2. Complete list of counties that had a turnout.
